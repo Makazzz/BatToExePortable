@@ -16,7 +16,7 @@ Convert BATCH script files to EXE.
 
 BatToExe is an application that can converts BATCH (.bat) script files to the EXE (.exe) format.
 
-My post on the [PortableApps.com forum](https://PortableApps.com/node/**Number**)
+My post on the [PortableApps.com forum](https://portableapps.com/node/61300)
 
 ## Download
 
