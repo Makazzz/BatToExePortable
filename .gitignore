@@ -1,0 +1,11 @@
+# Ignore App folder
+BatToExePortable/App/BatToExe
+
+# Ignore Data folder
+BatToExePortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
