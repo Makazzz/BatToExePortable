@@ -50,4 +50,4 @@ is packaged in an installer and complete zip file.
 
 *	BatToExe Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/BatToExePortable/master/LICENSE).
 *	PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/BatToExePortable/master/BatToExePortable/Other/Source/LauncherLicense.txt).
-*	BatToExe released with the [MIT license](https://raw.githubusercontent.com/Makazzz/BatToExePortable/master/BatToExePortable/App/BatToExe/license.txt).
+*	BatToExe released with the [MIT license](https://raw.githubusercontent.com/Makazzz/BatToExePortable/master/BatToExePortable/Other/Source/license.txt).
