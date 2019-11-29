@@ -1,5 +1,6 @@
 # Ignore App folder
-BatToExePortable/App/BatToExe
+BatToExePortable/App/BatToExe/Bat_To_Exe_Converter.exe
+BatToExePortable/App/BatToExe/Bat_To_Exe_Converter_(x64).exe
 
 # Ignore Data folder
 BatToExePortable/Data
